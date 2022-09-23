@@ -1,0 +1,8 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- AttributeCategory/AcupOffiProf
+maxDepth: -1
+autoUpdateSettings: true
+separateMatrixVersions: true
+separateCalculationProcedureVersions: false
+CompileOnBuild: true
